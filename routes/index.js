@@ -1,0 +1,8 @@
+const router = require('koa-router')()
+const index = require('../controller/indexController')
+console.log(index.index)
+router.get('/',index.index)
+router.get('/string',index.string)
+router.get('/json',index.json)
+router.allowedMethods()
+module.exports = router.routes()
