@@ -1,0 +1,348 @@
+[2018-03-23T18:37:38.083] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:38:10.859] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:39:03.106] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 4
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:39:32.744] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:40:29.293] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 6
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:41:08.050] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:41:29.870] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:41:50.753] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 6
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:42:17.529] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 7
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:43:44.228] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 9
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:44:19.138] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:44:25.359] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 0
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:46:53.016] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 3
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:46:56.371] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:47:27.824] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 4
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:49:50.899] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 13
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T18:50:15.968] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:50:45.601] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:50:59.843] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:52:22.270] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 4
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:52:26.054] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:57:49.090] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:57:55.637] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?name=aaa
+request client ip:  ::1
+request query:  {"name":"aaa"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:58:09.238] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?name=aaa
+request client ip:  ::1
+request query:  {"name":"aaa"}
+response time: 4
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T18:59:33.668] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?name=aaa
+request client ip:  ::1
+request query:  {"name":"aaa"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+

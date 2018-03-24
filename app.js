@@ -7,6 +7,7 @@ const logger = require('koa-logger')
 const glob = require("glob")
 const { resolve } = require('path')
 const MIDDLEWARES = ['log','error']
+
 app.use(bodyparser({
   enableTypes:['json', 'form', 'text']
 }))

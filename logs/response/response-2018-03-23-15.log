@@ -1,0 +1,378 @@
+[2018-03-23T15:12:47.774] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 14
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T15:18:06.155] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:18:10.714] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 0
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:19:24.424] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:19:33.190] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:19:59.936] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:23:46.172] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:30:10.426] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:32:35.116] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:32:36.204] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:32:53.655] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:34:20.385] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:34:24.077] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:35:37.431] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 23
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T15:35:49.691] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:35:57.669] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:40:07.030] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 29
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:40:35.910] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=2
+request client ip:  ::1
+request query:  {"id":"2"}
+response time: 9
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T15:40:44.057] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=2
+request client ip:  ::1
+request query:  {"id":"2"}
+response time: 11
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T15:41:37.573] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=2
+request client ip:  ::1
+request query:  {"id":"2"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:42:03.493] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=2
+request client ip:  ::1
+request query:  {"id":"2"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:42:41.691] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:44:41.954] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:45:36.278] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:45:40.594] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:45:59.636] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-03-23T15:46:36.217] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 31
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T15:57:06.700] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 34
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T15:57:09.926] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+

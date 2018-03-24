@@ -1,7 +1,7 @@
 const router = require('koa-router')()
 const index = require('../controller/indexController')
-console.log(index.index)
-router.get('/',index.index)
+const validation = require('koa-validation');
+router.get('/',index.auth,index.index)
 router.get('/string',index.string)
 router.get('/json',index.json)
 router.allowedMethods()

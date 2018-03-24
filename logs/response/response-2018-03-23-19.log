@@ -1,0 +1,116 @@
+[2018-03-23T19:00:51.593] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?name=aaa
+request client ip:  ::1
+request query:  {"name":"aaa"}
+response time: 4
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T19:00:59.871] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 1
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T19:01:08.946] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 5
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T19:03:44.535] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 6
+response status: 500
+response body: 
+[{"message":"required","field":"name","code":"missing_field"}]
+*************** response log end ***************
+
+[2018-03-23T19:03:56.748] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=aaa&&name=123
+request client ip:  ::1
+request query:  {"id":"aaa","name":"123"}
+response time: 12
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T19:09:24.689] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=aaa&&name=123
+request client ip:  ::1
+request query:  {"id":"aaa","name":"123"}
+response time: 12
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T19:12:58.387] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /?id=aaa&&name=123
+request client ip:  ::1
+request query:  {"id":"aaa","name":"123"}
+response time: 2
+err name: TypeError
+err message: Cannot set property 'status' of undefined
+err stack: TypeError: Cannot set property 'status' of undefined
+    at app.use (/Users/mac/Documents/GitHub/koa-frame/middlewares/error.js:7:22)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-23T19:13:15.557] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=aaa&&name=123
+request client ip:  ::1
+request query:  {"id":"aaa","name":"123"}
+response time: 13
+response status: 200
+response body: 
+[{"id":1,"username":"sdepold","birthday":"2018-03-22T09:02:25.000Z","createdAt":"2018-03-22T09:12:13.000Z","updatedAt":"2018-03-22T09:12:13.000Z"}]
+*************** response log end ***************
+
+[2018-03-23T19:13:19.089] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /?id=aaa
+request client ip:  ::1
+request query:  {"id":"aaa"}
+response time: 0
+response status: 500
+response body: 
+[{"message":"required","field":"name","code":"missing_field"}]
+*************** response log end ***************
+
